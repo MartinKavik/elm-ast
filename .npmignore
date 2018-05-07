@@ -1,0 +1,8 @@
+*
+!/lib/**
+!/index.js
+!/LICENSE
+!/README.md
+!/RELEASE-NOTES.md
+!/package-lock.json
+!/package.json
